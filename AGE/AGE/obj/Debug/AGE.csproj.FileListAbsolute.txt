@@ -1,0 +1,10 @@
+C:\Users\Hiren\source\repos\AGE\AGE\obj\Debug\AGE.Form1.resources
+C:\Users\Hiren\source\repos\AGE\AGE\obj\Debug\AGE.Properties.Resources.resources
+C:\Users\Hiren\source\repos\AGE\AGE\obj\Debug\AGE.csproj.GenerateResource.cache
+C:\Users\Hiren\source\repos\AGE\AGE\obj\Debug\AGE.csproj.CoreCompileInputs.cache
+C:\Users\Hiren\source\repos\AGE\AGE\obj\Debug\AGE.csproj.AssemblyReference.cache
+C:\Users\Hiren\source\repos\AGE\AGE\bin\Debug\AGE.exe.config
+C:\Users\Hiren\source\repos\AGE\AGE\bin\Debug\AGE.exe
+C:\Users\Hiren\source\repos\AGE\AGE\bin\Debug\AGE.pdb
+C:\Users\Hiren\source\repos\AGE\AGE\obj\Debug\AGE.exe
+C:\Users\Hiren\source\repos\AGE\AGE\obj\Debug\AGE.pdb
